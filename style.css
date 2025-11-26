@@ -61,7 +61,7 @@ section > h1 {
     padding: 10px;
     text-decoration: none;
     box-shadow: 3px 4px 2px #000;
-    color: #000;
+    color: #ffff;
     animation: none;
 }
 
@@ -102,4 +102,5 @@ section > h1 {
         background: rgba(255, 255, 255, .08);
         position: absolute;
     }
+
 }
